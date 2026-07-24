@@ -1,0 +1,6 @@
+{
+  "name": "TeleCam Pro",
+  "description": "Продвинутая камера для телеобъектива 75мм Xiaomi 13 Pro (Telemacro, Leica Master Portrait, Pro Manual Controls, Focus Peaking, EXIF Inspector).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
